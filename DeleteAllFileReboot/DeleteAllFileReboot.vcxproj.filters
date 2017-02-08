@@ -17,9 +17,15 @@
       <UniqueIdentifier>{c901aff9-9876-4e8a-ad26-d9370e1815a3}</UniqueIdentifier>
       <Extensions>idx;xml;png;gif;jpg;ico;lua;bmp</Extensions>
     </Filter>
+    <Filter Include="license">
+      <UniqueIdentifier>{0d26c7fa-f201-41c1-a57a-22b68539f993}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="readme.txt" />
+    <Text Include="license\license.txt">
+      <Filter>license</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DeleteAllFileReboot.cpp">
