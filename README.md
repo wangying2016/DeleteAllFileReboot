@@ -1,5 +1,6 @@
 # DeleteAllFileReboot
 重启后删除指定文件夹内容的小Demo  
+![DeleteALlFileReboot展示照片](https://github.com/wangying2016/DeleteAllFileReboot/raw/master/Picture/DeleteAllFileReboot.JPG)
 ```
 MoveFileEx()
 ```
